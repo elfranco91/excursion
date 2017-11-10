@@ -32,10 +32,9 @@ h3 {
   color: gray;
   text-align: center;
 }
-  img {
-vertical-align: middle;
-}
-
-
-
+.bottom{
+  font-family: Verdana;
+  font-size:21px;
+  color: gray;
+  text-align: right;
 }
